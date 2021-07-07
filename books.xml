@@ -1,0 +1,11 @@
+<?xml version = "1.0" ?>
+<books>
+	<book>
+		<id>B1001</id>
+		<title>Discovery of India</title>
+	</book>
+	<book>
+		<id>B1002</id>
+		<title>Wings of fire</title>
+	</book>
+</books>
